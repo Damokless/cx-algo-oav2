@@ -19,4 +19,4 @@ function bubble(myArray = []) {
 return myArray
 }
 
-console.log(bubble([5,1,4,2,8]))
+console.log(bubble([6,1,5,2,9]))
